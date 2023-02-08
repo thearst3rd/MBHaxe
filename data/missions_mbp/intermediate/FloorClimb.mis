@@ -1,4 +1,4 @@
-// UT Tip: Use the Jump Boost to get to the next floor from the sides.
+// UT Tip: Use the Super Jump to get to the next floor from the sides.
 // Rep. by Pablo
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {

@@ -5,9 +5,9 @@
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         name = "Learn the Time Modifier";
-         startHelpText = "Collect the Time Modifiers and finish before the Par Time!\nAn alarm will sound when your time is about to run out.";
-         desc = "Learn the different times and bonuses you can have on the Time Modifier!";
+         name = "Learn the Time Travel";
+         startHelpText = "Collect the Time Travels and finish before the Par Time!\nAn alarm will sound when your time is about to run out.";
+         desc = "Learn the different times and bonuses you can have on the Time Travel!";
          type = "beginner";
          level = "13";
          music = "Grudge.ogg";
@@ -338,7 +338,7 @@ new SimGroup(MissionGroup) {
       scale = "0.6 0.6 1";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Wow! You collected the most highest valued Time Modifier!";
+         text = "Wow! You collected the most highest valued Time Travel!";
    };
    new Trigger() {
       position = "-6 7.5 0.5";
@@ -346,7 +346,7 @@ new SimGroup(MissionGroup) {
       scale = "6 1 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "This is the Time Modifier. It\'s usually defaulted at five seconds as Clock Bonuses, but sometimes it can be different.";
+         text = "This is the Time Travel. It\'s usually defaulted at five seconds as Clock Bonuses, but sometimes it can be different.";
    };
    new Trigger() {
       position = "-6 1 0.5";
@@ -354,7 +354,7 @@ new SimGroup(MissionGroup) {
       scale = "6 1 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Hint: There is a Time Modifier above you! Hit the wall and rebound upwards!";
+         text = "Hint: There is a Time Travel above you! Hit the wall and rebound upwards!";
    };
    new Trigger() {
       position = "17.5 -5.35 2.95";
@@ -362,7 +362,7 @@ new SimGroup(MissionGroup) {
       scale = "0.5 0.5 0.5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Some Time Modifiers might actually deduct some time off your final time. These are the worst kind of Time Modifiers.";
+         text = "Some Time Travels might actually deduct some time off your final time. These are the worst kind of TiTime Travel";
    };
    new Trigger() {
       position = "33 0 0.5";
@@ -370,7 +370,7 @@ new SimGroup(MissionGroup) {
       scale = "1 6 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "If you can get some of the Time Modifiers above, you have a higher chance to get Platinum Time!";
+         text = "If you can get some of the Time Travels above, you have a higher chance to get Platinum Time!";
    };
    new Trigger() {
       position = "36 4 0.5";
@@ -378,7 +378,7 @@ new SimGroup(MissionGroup) {
       scale = "6 1 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "You might never know where Time Modifiers might be hiding...";
+         text = "You might never know where Time Travels might be hiding...";
    };
    new Trigger() {
       position = "46 -12 0.5";
@@ -386,7 +386,7 @@ new SimGroup(MissionGroup) {
       scale = "1 6 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "The finish is just above, but don\'t forget to grab the last Time Modifier in front of it!";
+         text = "The finish is just above, but don\'t forget to grab the last Time Travel in front of it!";
    };
    new AudioProfile(MusicProfile) {
       fileName = "~/data/sound/Seaside Revisited.ogg";
@@ -399,7 +399,7 @@ new SimGroup(MissionGroup) {
       scale = "0.5 0.5 0.5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "WOW! You found a hidden Time Modifier!";
+         text = "WOW! You found a hidden Time Travel!";
    };
    new Trigger() {
       position = "-3.5 13.5 4";
@@ -407,7 +407,7 @@ new SimGroup(MissionGroup) {
       scale = "1 1 1.1";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Some of the Time modifiers are worth more than 5 seconds of Clock Bonuses...";
+         text = "Some of the Time Travels are worth more than 5 seconds of Clock Bonuses...";
    };
    new StaticShape() {
       position = "45 -14 8";

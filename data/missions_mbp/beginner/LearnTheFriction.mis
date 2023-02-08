@@ -137,7 +137,7 @@ new SimGroup(MissionGroup) {
       scale = "7 7 13";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "This is water.\nWhile it is highly frictional, it\'s the only friction force that acts like an Anti-Recoil, stopping the marble\'s fall with ease.";
+         text = "This is water.\nWhile it is highly frictional, it\'s the only friction force that acts like a Shock Absorber, stopping the marble\'s fall with ease.";
    };
    new Trigger() {
       position = "-9 -8.6 0";

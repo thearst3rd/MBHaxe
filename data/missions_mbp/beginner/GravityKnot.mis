@@ -8,7 +8,7 @@ new SimGroup(MissionGroup) {
          artist = "Ian";
          startHelpText = "Find the shortcut to finish with the best time!";
          type = "beginner";
-         desc = "By picking up the gravity defiers, you can roll on the walls!";
+         desc = "By picking up the gravity modifiers, you can roll on the walls!";
          level = "6";
          music = "Seaside Revisited.ogg";
          goldTime = "16000";

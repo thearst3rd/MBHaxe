@@ -1,6 +1,6 @@
 // UT Tip: Go to the blue island first, then pink.
-// Wait for the Jump Boost to respawn to exit the Havoc Zone faster
-// with the help of the cyclones straight into the teleporters.
+// Wait for the Super Jump to respawn to exit the Havoc Zone faster
+// with the help of the tornados straight into the teleporters.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
@@ -561,7 +561,7 @@ new SimGroup(MissionGroup) {
       scale = "7 1 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Welcome to the Force Havoc Zone! Grab the diamonds without being thrown out. Get as many Time Modifiers as you can.";
+         text = "Welcome to the Force Havoc Zone! Grab the gems without being thrown out. Get as many Time Travels as you can.";
    };
    new StaticShape() {
       position = "22.1853 -392.317 -512.122";

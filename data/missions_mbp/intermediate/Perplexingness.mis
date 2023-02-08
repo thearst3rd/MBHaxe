@@ -1,4 +1,4 @@
-// UT Tip: Use the Marble Recoil powerup to hit the Helicopter and then hit the diamond and skillshot the goal!
+// UT Tip: Use the Super Bounce powerup to hit the Gyrocopter and then hit the gem and skillshot the goal!
 // Rep. by Perishingflames
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {

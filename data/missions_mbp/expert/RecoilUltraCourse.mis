@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          music = "Endurance.ogg";
          goldTime = "120000";
          desc = "Put all your recoiling skills to the ultimate test!";
-         startHelpText = "Welcome to the Recoil Ultra Course!\nGet the diamonds on each challenge. Get each time modifier to get the best time!";
+         startHelpText = "Welcome to the Recoil Ultra Course!\nGet the gems on each challenge. Get each time travel to get the best time!";
          UltimateTime = "60000";
          level = "8";
          type = "Expert";
@@ -494,7 +494,7 @@ new SimGroup(MissionGroup) {
       scale = "8 8 8";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Challenge 13: Cyclone Aim";
+         text = "Challenge 13: Tornado Aim";
    };
    new Item() {
       position = "-27.2456 -13.0237 431.431";
@@ -582,7 +582,7 @@ new SimGroup(MissionGroup) {
       scale = "7 1 8";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Challenge 1: Marble Recoil Basics";
+         text = "Challenge 1: Super Bounce Basics";
    };
    new Trigger(challenge1) {
       position = "-15.4816 38.1199 497.673";
@@ -590,7 +590,7 @@ new SimGroup(MissionGroup) {
       scale = "1 4 3.5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Challenge 2: Anti-Recoil Basics";
+         text = "Challenge 2: Shock Absorber Basics";
    };
    new Item() {
       position = "-35.1192 36.2082 491.387";

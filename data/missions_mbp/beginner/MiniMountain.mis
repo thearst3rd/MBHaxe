@@ -121,7 +121,7 @@ new SimGroup(MissionGroup) {
       scale = "6 4 1";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Use the Speed Booster powerup to make it on to the high platform on your left.";
+         text = "Use the Super Speed powerup to make it on to the high platform on your left.";
    };
    new InteriorInstance() {
       position = "9.75684 -18.4555 -0.94775";

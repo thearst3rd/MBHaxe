@@ -5,7 +5,7 @@ new SimGroup(MissionGroup) {
    new ScriptObject(MissionInfo) {
          startHelpText = "One-Way Skillshot!";
          name = "Gap Aimer";
-         desc = "Use the Helicopter to help you aim to the goal!";
+         desc = "Use the Gyrocopter to help you aim to the goal!";
          artist = "Matan";
          type = "Advanced";
          level = "3";

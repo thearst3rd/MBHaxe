@@ -1,11 +1,11 @@
-// UT Tip: Use the Checkpoint and the Jump Boost to your advantage.
+// UT Tip: Use the Checkpoint and the Super Jump to your advantage.
 // The time will remain stopped.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          name = "Rolling to Eternity";
-         desc = "Collect all ten diamonds by going through a variety of obstacles!";
+         desc = "Collect all ten gems by going through a variety of obstacles!";
          type = "advanced";
          music = "Astrolabe.ogg";
          level = "33";

@@ -5,7 +5,7 @@ new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          artist = "Andrew";
-         desc = "Use the available powerups and your best marbling skills to get all the diamonds.";
+         desc = "Use the available powerups and your best marbling skills to get all the gems.";
          name = "Slope Madness";
          level = "12";
          startHelpText = "Slopes have never been so much fun!";

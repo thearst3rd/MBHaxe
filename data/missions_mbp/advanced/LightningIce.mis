@@ -128,7 +128,7 @@ new SimGroup(MissionGroup) {
       scale = "4 4 1";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Please stay centered to collect the diamond.";
+         text = "Please stay centered to collect the gem.";
    };
    new Trigger() {
       position = "152.2 16 -7.8";
@@ -136,7 +136,7 @@ new SimGroup(MissionGroup) {
       scale = "4 24 8";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Use the upcoming Anti Recoil when needed, not immediately!";
+         text = "Use the upcoming Shock Absorber when needed, not immediately!";
    };
    new Trigger() {
       position = "268 8 -16";

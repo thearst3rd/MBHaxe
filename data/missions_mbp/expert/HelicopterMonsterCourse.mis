@@ -5,12 +5,12 @@ new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          level = "7";
-         name = "Helicopter Monster Course";
+         name = "Gyrocopter Monster Course";
          artist = "Matan";
-         startHelpText = "Welcome to the Helicopter Monster Course!";
+         startHelpText = "Welcome to the Gyrocopter Monster Course!";
          type = "Expert";
          music = "Rising Temper.ogg";
-         desc = "Shape up your helicopter skills!";
+         desc = "Shape up your gyrocopter skills!";
          goldTime = "100000";
          UltimateTime = "50000";
    };
@@ -260,7 +260,7 @@ new SimGroup(MissionGroup) {
       scale = "20 20 20";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Missed the diamond? Don\'t worry! You can always go back to it by using the Helicopter or the Speed Booster!";
+         text = "Missed the gem? Don\'t worry! You can always go back to it by using the Gyrocopter or the Super Speed!";
    };
    new Trigger() {
       position = "233.249 8.17856 41.5804";
@@ -268,7 +268,7 @@ new SimGroup(MissionGroup) {
       scale = "20 20 20";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Missed the diamond? Don\'t worry! You can always go back to it by using the Helicopter or the Speed Booster!";
+         text = "Missed the gem? Don\'t worry! You can always go back to it by using the Gyrocopter or the Super Speed!";
    };
    new Trigger() {
       position = "229.912 27.4615 25.1781";
@@ -276,7 +276,7 @@ new SimGroup(MissionGroup) {
       scale = "20 20 20";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Missed the diamond? Don\'t worry! You can always go back to it by using the Helicopter or the Speed Booster!";
+         text = "Missed the gem? Don\'t worry! You can always go back to it by using the Gyrocopter or the Super Speed!";
    };
    new Trigger() {
       position = "237.959 -5.86961 23.8079";
@@ -284,7 +284,7 @@ new SimGroup(MissionGroup) {
       scale = "20 20 20";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Missed the diamond? Don\'t worry! You can always go back to it by using the Helicopter or the Speed Booster!";
+         text = "Missed the gem? Don\'t worry! You can always go back to it by using the Gyrocopter or the Super Speed!";
    };
    new InteriorInstance() {
       position = "30.2844 0.203387 -0.307126";
@@ -370,7 +370,7 @@ new SimGroup(MissionGroup) {
       scale = "1 10 8";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Challenge #5: Cyclone Flight";
+         text = "Challenge #5: Tornado Flight";
    };
    new StaticShape() {
       position = "328.653 148.071 18.9094";
@@ -885,7 +885,7 @@ new SimGroup(MissionGroup) {
       scale = "1 18 20";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Congratulations on finishing Helicopter Monster Course!";
+         text = "Congratulations on finishing Gyrocopter Monster Course!";
    };
    new Item() {
       position = "284.192 763.926 85.8088";

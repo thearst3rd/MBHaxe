@@ -4,13 +4,13 @@
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         name = "Cyclone Launch";
+         name = "Tornado Launch";
          artist = "Andrew";
-         desc = "Use the Cyclones to your advantage!";
+         desc = "Use the Tornados to your advantage!";
          type = "Intermediate";
          music = "Rising Temper.ogg";
          level = "3";
-         startHelpText = "Use the Cyclones to your advantage!";
+         startHelpText = "Use the Tornados to your advantage!";
          goldTime = "12000";
          UltimateTime = "9750";
    };
@@ -119,7 +119,7 @@ new SimGroup(MissionGroup) {
       scale = "3 6 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Don\'t be afraid; just roll off the platform and the Cyclone will do the rest!";
+         text = "Don\'t be afraid; just roll off the platform and the Tornado will do the rest!";
    };
    new StaticShape() {
       position = "28.6 -40 523.2";

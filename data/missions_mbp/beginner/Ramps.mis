@@ -1,12 +1,12 @@
-// UT Tip: Start from the diamond to the left, go clockwise and in the next section
-// do the same after you got the centre diamond.
+// UT Tip: Start from the gem to the left, go clockwise and in the next section
+// do the same after you got the centre gem.
 // Rep. by Phil
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          name = "Ramps";
-         desc = "Collect all the diamonds on top of each ramp.";
+         desc = "Collect all the gems on top of each ramp.";
          artist = "Jase";
          level = "20";
          music = "Seaside Revisited.ogg";

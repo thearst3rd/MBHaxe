@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          name = "Speed Attack";
          music = "Pianoforte.ogg";
          goldTime = "255000";
-         desc = "Train in the way of the Speed Booster!";
+         desc = "Train in the way of the Super Speed!";
          UltimateTime = "195000";
          type = "Expert";
          level = "10";

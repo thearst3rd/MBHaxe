@@ -1,4 +1,4 @@
-// UT Tip: Jump to skip the tightropes and use the cyclone to launch yourself to the finish.
+// UT Tip: Jump to skip the tightropes and use the tornado to launch yourself to the finish.
 // Rep. by Phil and Pablo
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
@@ -6,7 +6,7 @@ new SimGroup(MissionGroup) {
    new ScriptObject(MissionInfo) {
          name = "Hazard Loop";
          startHelpText = "Do a lap around the loop, but don\'t let the hazards throw you off!";
-         desc = "Learn about hazards as you collect the diamonds!";
+         desc = "Learn about hazards as you collect the gems!";
          type = "beginner";
          level = "23";
          music = "Astrolabe.ogg";
@@ -569,7 +569,7 @@ new SimGroup(MissionGroup) {
       scale = "1 6 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Now for the hardest part. The dreaded cyclone will pull you in and spit you out!";
+         text = "Now for the hardest part. The dreaded tornado will pull you in and spit you out!";
    };
    new StaticShape() {
       position = "3.75723 -3.43166 8.72225";

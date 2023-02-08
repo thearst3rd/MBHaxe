@@ -548,7 +548,7 @@ new SimGroup(MissionGroup) {
       scale = "8 4 1";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Get some speed and ram into the Gravity Defier!";
+         text = "Get some speed and ram into the Gravity Modifier!";
    };
    new Item() {
       position = "-29 18 22.25";

@@ -4,13 +4,13 @@
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         desc = "Collect the diamonds while racing against the clock.";
+         desc = "Collect the gems while racing against the clock.";
          name = "King of the Marble";
          level = "15";
          music = "Pianoforte.ogg";
          artist = "Tim Aste";
          type = "beginner";
-         startHelpText = "Use the Speed Boosters to help you finish faster.";
+         startHelpText = "Use the Super Speeds to help you finish faster.";
          time = "60000";
          goldTime = "40000";
          UltimateTime = "22500";

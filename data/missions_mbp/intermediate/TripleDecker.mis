@@ -1,9 +1,9 @@
-// UT Tip: No need for the Speed Booster
+// UT Tip: No need for the Super Speed
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         startHelpText = "Go around the 3 story building, collecting the diamonds!";
+         startHelpText = "Go around the 3 story building, collecting the gems!";
          name = "Triple Decker";
          desc = "Welcome to the Intermediate Levels!";
          artist = "Phil";

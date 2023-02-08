@@ -6,8 +6,8 @@ new SimGroup(MissionGroup) {
          level = "1";
          name = "Pink-Fold Maze";
          type = "Advanced";
-         desc = "Collect the diamonds and the time modifiers to score the best possible time!";
-         startHelpText = "Find the Helicopter PowerUp and use it to your advantage!";
+         desc = "Collect the gems and the time travels to score the best possible time!";
+         startHelpText = "Find the Gyrocopter PowerUp and use it to your advantage!";
          artist = "Phil";
          music = "Seaside Revisited.ogg";
          time = "70000";

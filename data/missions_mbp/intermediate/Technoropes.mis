@@ -1,9 +1,9 @@
-// UT Tip: Did you know I have sub-10? That's because I used the cyclone and the trim.
+// UT Tip: Did you know I have sub-10? That's because I used the tornado and the trim.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         desc = "Be careful around the cyclone...";
+         desc = "Be careful around the tornado...";
          artist = "Phil";
          startHelpText = "Be careful on trim...";
          name = "Technoropes";

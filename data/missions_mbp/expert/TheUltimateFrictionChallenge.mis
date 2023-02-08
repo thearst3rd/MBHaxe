@@ -94,7 +94,7 @@ new SimGroup(MissionGroup) {
       scale = "2 9 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Don\'t forget to collect the diamonds and Time Modifiers scattered throughout the level!";
+         text = "Don\'t forget to collect the gems and Time Travels scattered throughout the level!";
    };
    new Trigger(noslip) {
       position = "-14.7894 -31.8636 483.8";
@@ -178,7 +178,7 @@ new SimGroup(MissionGroup) {
       scale = "11 3 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Challenge #3: Cyclones and Ice";
+         text = "Challenge #3: Tornados and Ice";
    };
    new Trigger(challenge4) {
       position = "86.967 204.123 489.931";

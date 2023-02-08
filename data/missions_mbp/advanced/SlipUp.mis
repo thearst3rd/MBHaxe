@@ -1,4 +1,4 @@
-// UT Tip: Go all the way to the other side first and then get to the last diamond where the teleporter is.
+// UT Tip: Go all the way to the other side first and then get to the last gem where the teleporter is.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 

@@ -10,7 +10,7 @@ new SimGroup(MissionGroup) {
          level = "25";
          artist = "Alex Swanson";
          type = "beginner";
-         startHelpText = "Find the diamonds but don\'t fall off!";
+         startHelpText = "Find the gems but don\'t fall off!";
          time = "60000";
          goldTime = "33000";
          UltimateTime = "23000";

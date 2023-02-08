@@ -1,5 +1,5 @@
-// UT Tip: Grab the nearest Gravity Defyer first, then instead of going the full route
-// go down and hit another GD to go back to normal gravity with the 2nd diamond at hand.
+// UT Tip: Grab the nearest Gravity Modifier first, then instead of going the full route
+// go down and hit another GD to go back to normal gravity with the 2nd gem at hand.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
@@ -10,7 +10,7 @@ new SimGroup(MissionGroup) {
          level = "4";
          music = "Rising Temper.ogg";
          type = "advanced";
-         startHelpText = "Search for the diamonds quickly; you don\'t have much time!";
+         startHelpText = "Search for the gems quickly; you don\'t have much time!";
          time = "45000";
          goldTime = "30000";
          UltimateTime = "20000";

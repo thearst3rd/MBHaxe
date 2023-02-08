@@ -1,5 +1,5 @@
 // UT Tip: Hit the TM first, go back [after passing the goal] and edge hit
-// to the first diamond and do the level in order. Of course you can cut off some bits.
+// to the first gem and do the level in order. Of course you can cut off some bits.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 

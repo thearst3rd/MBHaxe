@@ -1,4 +1,4 @@
-// UT Tip: Go diagonally and aim with the Speed Booster carefully straight to the goal. Very easy, actually.
+// UT Tip: Go diagonally and aim with the Super Speed carefully straight to the goal. Very easy, actually.
 // Rep. by Matan
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
@@ -10,7 +10,7 @@ new SimGroup(MissionGroup) {
          startHelpText = "Remember to slow down after landing from using a powerup.";
          type = "beginner";
          music = "Endurance.ogg";
-         desc = "Learn how to use moving platforms, Jump Boosts and Speed Boosters!";
+         desc = "Learn how to use moving platforms, Super Jumps and Super Speeds!";
          goldTime = "10000";
          UltimateTime = "6250";
    };
@@ -188,7 +188,7 @@ new SimGroup(MissionGroup) {
       scale = "5 5 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "The Jump Boost powerup will give you a big jump up!";
+         text = "The Super Jump powerup will give you a big jump up!";
    };
    new Trigger(helptrig) {
       position = "49 2 106";
@@ -196,7 +196,7 @@ new SimGroup(MissionGroup) {
       scale = "5 5 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "The Speed Booster powerup will shoot you forward at a huge speed!";
+         text = "The Super Speed powerup will shoot you forward at a huge speed!";
    };
    new Trigger(helptrig) {
       position = "-12 15 109";

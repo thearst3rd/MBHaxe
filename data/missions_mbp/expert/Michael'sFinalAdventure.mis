@@ -1,5 +1,5 @@
-// UT Tip: Go right to the half pipe first, skillshot a TM on a tightrope and then get to the 2nd diamond first.
-// Oh, and use the Jump Boost twice.
+// UT Tip: Go right to the half pipe first, skillshot a TM on a tightrope and then get to the 2nd gem first.
+// Oh, and use the Super Jump twice.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 

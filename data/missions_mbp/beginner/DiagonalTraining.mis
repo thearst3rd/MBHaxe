@@ -117,7 +117,7 @@ new SimGroup(MissionGroup) {
       scale = "2 11 2";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Catch the Time Modifier in mid-air!";
+         text = "Catch the Time Travel in mid-air!";
    };
    new Trigger(Diag2) {
       position = "79.0871 5.47226 0.320804";

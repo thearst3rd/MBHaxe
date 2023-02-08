@@ -109,7 +109,7 @@ new SimGroup(MissionGroup) {
       scale = "7 1 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Part 2: Bouncing for Diamonds";
+         text = "Part 2: Bouncing for Gems";
    };
    new Item() {
       position = "-57.507 97.6078 403.67";
@@ -144,7 +144,7 @@ new SimGroup(MissionGroup) {
       scale = "7 1 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Be sure to collect the diamonds and Time Modifiers on each challenge!";
+         text = "Be sure to collect the gems and Time Travels on each challenge!";
    };
    new Trigger(part3) {
       position = "-42.8881 52.525 403.015";

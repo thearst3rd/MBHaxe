@@ -1,5 +1,5 @@
-// UT Tip: From the Jump Boost, get to the trapdoors' diamond and use the Anti Recoil
-// to get to the random floor's diamond.
+// UT Tip: From the Super Jump, get to the trapdoors' gem and use the Shock Absorber
+// to get to the random floor's gem.
 // Rep. by Lonestar and Pablo
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {

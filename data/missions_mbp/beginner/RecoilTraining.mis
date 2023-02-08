@@ -158,7 +158,7 @@ new SimGroup(MissionGroup) {
       scale = "1 6 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Use the Marble Recoil powerup to help your marble bounce higher!";
+         text = "Use the Super Bounce powerup to help your marble bounce higher!";
    };
    new Trigger() {
       position = "28 -2 -76";
@@ -166,7 +166,7 @@ new SimGroup(MissionGroup) {
       scale = "4 4 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "The Anti-Recoil Powerup stops the marble from rebounding.";
+         text = "The Shock Absorber Powerup stops the marble from rebounding.";
    };
    new Trigger(Bounds) {
       position = "-15 35 -126.8";

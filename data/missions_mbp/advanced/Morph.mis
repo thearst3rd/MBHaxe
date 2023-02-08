@@ -10411,7 +10411,7 @@ new SimGroup(MissionGroup) {
       scale = "0.1 0.1 0.25";
       dataBlock = "HelpTrigger";
       polyhedron = "-3.2500000 -4.0000000 1.2500000 0.0000000 8.0000000 0.0000000 6.5000000 0.0000000 0.0000000 0.0000000 0.0000000 -2.5000000";
-         text = "Gravity Maze : Return to normal gravity, but don\'t forget the diamonds.";
+         text = "Gravity Maze : Return to normal gravity, but don\'t forget the gems.";
    };
    new Trigger() {
       position = "18.9632 9.3888 20.6022";
@@ -10419,7 +10419,7 @@ new SimGroup(MissionGroup) {
       scale = "0.1 0.1 0.25";
       dataBlock = "HelpTrigger";
       polyhedron = "-3.2500000 -4.0000000 1.2500000 0.0000000 8.0000000 0.0000000 6.5000000 0.0000000 0.0000000 0.0000000 0.0000000 -2.5000000";
-         text = "Tower Climb : Get to the diamond at the top, don\'t fall!";
+         text = "Tower Climb : Get to the gem at the top, don\'t fall!";
    };
    new Trigger() {
       position = "10.5756 9.3628 32.5052";
@@ -10427,7 +10427,7 @@ new SimGroup(MissionGroup) {
       scale = "0.1 0.1 0.25";
       dataBlock = "HelpTrigger";
       polyhedron = "-3.2500000 -4.0000000 1.2500000 0.0000000 8.0000000 0.0000000 6.5000000 0.0000000 0.0000000 0.0000000 0.0000000 -2.5000000";
-         text = "Playground : Get all the diamonds and head up the ramp!";
+         text = "Playground : Get all the gems and head up the ramp!";
    };
    new Trigger() {
       position = "17.8581 -0.273046 44.9486";

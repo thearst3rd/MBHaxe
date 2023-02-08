@@ -8,7 +8,7 @@ new SimGroup(MissionGroup) {
          desc = "Master your wall-hitting skills!";
          level = "18";
          music = "Rising Temper.ogg";
-         startHelpText = "Collect the diamonds in the building by bouncing off the walls!";
+         startHelpText = "Collect the gems in the building by bouncing off the walls!";
          artist = "Andrew";
          type = "Intermediate";
          goldTime = "75000";

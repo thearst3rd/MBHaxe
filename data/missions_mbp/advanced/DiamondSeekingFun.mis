@@ -3,13 +3,13 @@
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         name = "Diamond Seeking Fun!";
+         name = "Gem Seeking Fun!";
          artist = "Phil";
-         desc = "Go around the platforms searching for the diamonds! Look out for hidden time modifiers! And don\'t forget, you have 2 minutes!";
+         desc = "Go around the platforms searching for the gems! Look out for hidden time travels! And don\'t forget, you have 2 minutes!";
          type = "advanced";
          music = "Rising Temper.ogg";
          level = "2";
-         startHelpText = "Explore around for the hidden diamonds!";
+         startHelpText = "Explore around for the hidden gems!";
          time = "120000";
          goldTime = "30000";
          UltimateTime = "10000";

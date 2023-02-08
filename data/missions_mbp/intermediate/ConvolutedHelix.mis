@@ -1,4 +1,4 @@
-// UT Tip: Aim for the Jump Boost and use it to the goal!
+// UT Tip: Aim for the Super Jump and use it to the goal!
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 

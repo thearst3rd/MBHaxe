@@ -1,5 +1,5 @@
 // UT Tip: Ever hit a nuke and landed on a tightrope? Fear not for the marble's safety.
-// For a faster time, think what you can do with the gravity defiers.
+// For a faster time, think what you can do with the gravity modifiers.
 // Rep. by Phil
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {

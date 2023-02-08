@@ -1,4 +1,4 @@
-// UT Tip: Try and get diamonds in one jump. Control your spin, if that helps.
+// UT Tip: Try and get gems in one jump. Control your spin, if that helps.
 // Rep. by Pablo
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          music = "Endurance.ogg";
          time = "120000";
          goldTime = "80000";
-         desc = "Get the Diamonds and Time Modifiers but don\'t get blown away!";
+         desc = "Get the Gems and Time Travels but don\'t get blown away!";
          startHelpText = "Danger!\nYou\'re now entering a Nuke Field Zone!";
          UltimateTime = "41000";
          type = "Advanced";

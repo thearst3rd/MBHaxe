@@ -4,7 +4,7 @@ new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          desc = "If one may fall or go to the sides, but not too far, the teleporter shall put him back to the start.";
-         name = "Cardcaddy\'s Diamond Collection";
+         name = "Cardcaddy\'s Gem Collection";
          startHelpText = "Up and down all night long!";
          level = "15";
          music = "Grudge.ogg";

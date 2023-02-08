@@ -1,13 +1,13 @@
-// UT Tip: Get from the first diamond to the second by using one helicopter item only.
+// UT Tip: Get from the first gem to the second by using one gyrocopter item only.
 // Rep. by Matan
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          name = "Flight of the Marble";
-         desc = "Use the helicopter item to fly!";
+         desc = "Use the gyrocopter item to fly!";
          level = "7";
-         startHelpText = "The helicopter can be used in many ways.\nLearn the basics!";
+         startHelpText = "The gyrocopter can be used in many ways.\nLearn the basics!";
          type = "beginner";
          artist = "Ian";
          music = "Seaside Revisited.ogg";
@@ -121,7 +121,7 @@ new SimGroup(MissionGroup) {
       scale = "1 75 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Use the helicopter item to fly across the gap!";
+         text = "Use the gyrocopter item to fly across the gap!";
    };
    new Trigger() {
       position = "-68.0157 46.0567 -14.8524";
@@ -129,7 +129,7 @@ new SimGroup(MissionGroup) {
       scale = "1 75 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "While the helicopter is active, you will be able to jump much higher!";
+         text = "While the gyrocopter is active, you will be able to jump much higher!";
    };
    new Item() {
       position = "10 -10 0";
@@ -146,7 +146,7 @@ new SimGroup(MissionGroup) {
       scale = "1 75 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "The helicopter will slow your fall. Spin the marble in mid-air to float down to the shelf with the finish!";
+         text = "The gyrocopter will slow your fall. Spin the marble in mid-air to float down to the shelf with the finish!";
    };
    new Item() {
       position = "-67 -10 -15";

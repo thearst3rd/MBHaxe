@@ -6,7 +6,7 @@ new SimGroup(MissionGroup) {
    new ScriptObject(MissionInfo) {
          type = "Intermediate";
          artist = "Andrew";
-         startHelpText = "Use the Speed Boosters ahead to your advantage!";
+         startHelpText = "Use the Super Speeds ahead to your advantage!";
          desc = "Loops have never been so much fun! ";
          name = "Loop Exits";
          level = "17";
@@ -126,7 +126,7 @@ new SimGroup(MissionGroup) {
       scale = "7 2 3";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "After activating the Speed Boosters, exit the loop on either side to send you high, far, and fast!";
+         text = "After activating the Super Speeds, exit the loop on either side to send you high, far, and fast!";
    };
    new Trigger(loop2) {
       position = "-6.40849 32.132 0.40719";

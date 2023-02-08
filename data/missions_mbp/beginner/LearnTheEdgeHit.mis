@@ -1,4 +1,4 @@
-// UT Tip: Be careful with the speeds to which you reach each edge hit. 
+// UT Tip: Be careful with the speeds to which you reach each edge hit.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
@@ -86,7 +86,7 @@ new SimGroup(MissionGroup) {
       scale = "7 1 8";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Roll forwards with speed so that you can hit the edge of the platform. Aim for the diamond!";
+         text = "Roll forwards with speed so that you can hit the edge of the platform. Aim for the gem!";
    };
    new Trigger() {
       position = "60.9 24.9 3.6";

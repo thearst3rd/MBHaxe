@@ -10,7 +10,7 @@ new SimGroup(MissionGroup) {
          music = "Endurance.ogg";
          type = "Advanced";
          artist = "Andrew";
-         startHelpText = "Get the diamond at each stop in under 15 seconds, or the platform will leave you behind!!";
+         startHelpText = "Get the gem at each stop in under 15 seconds, or the platform will leave you behind!!";
          goldTime = "122750";
          UltimateTime = "121000";
    };

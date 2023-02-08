@@ -8,11 +8,11 @@ new SimGroup(MissionGroup) {
          startHelpText = "The race is on!";
          level = "11";
          goldTime = "67500";
-         name = "The Time Modifier Race";
+         name = "The Time Travel Race";
          UltimateTime = "52500";
          time = "85000";
          artist = "Matan";
-         desc = "Collect the Time Modifiers throughout this race and finish before the Par Time.";
+         desc = "Collect the Time Travels throughout this race and finish before the Par Time.";
          type = "Expert";
          AlarmStartTime = "15";
    };

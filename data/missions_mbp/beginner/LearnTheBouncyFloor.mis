@@ -130,7 +130,7 @@ new SimGroup(MissionGroup) {
       scale = "7 1 7";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Use the bouncy floor in conjunction with the Jump Boost to make it all the way up!";
+         text = "Use the bouncy floor in conjunction with the Super Jump to make it all the way up!";
    };
    new Item() {
       position = "-13.6 77 9.3";

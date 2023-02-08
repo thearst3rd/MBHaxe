@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          music = "Rising Temper.ogg";
          goldTime = "37500";
          desc = "Can you make it past the treacherous hazards? ";
-         startHelpText = "Collect the diamonds and get to the finish without falling.";
+         startHelpText = "Collect the gems and get to the finish without falling.";
          UltimateTime = "20000";
          level = "26";
          type = "Advanced";

@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          artist = "Andrew";
          level = "16";
          music = "Endurance.ogg";
-         startHelpText = "Don\'t forget to collect the diamonds!";
+         startHelpText = "Don\'t forget to collect the gems!";
          type = "Intermediate";
          goldTime = "70000";
          UltimateTime = "52000";

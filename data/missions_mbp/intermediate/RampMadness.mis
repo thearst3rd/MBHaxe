@@ -1,10 +1,10 @@
-// UT Tip: It's a simple route, but do the outside diamonds last.
+// UT Tip: It's a simple route, but do the outside gems last.
 // Rep. by Phil
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         desc = "Roll around the maze of ramps, collecting the diamonds!";
+         desc = "Roll around the maze of ramps, collecting the gems!";
          artist = "Ian";
          name = "Ramp Madness";
          music = "Astrolabe.ogg";

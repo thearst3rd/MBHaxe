@@ -1,4 +1,4 @@
-// UT Tip: The diamonds in the small tubes in the centre of the
+// UT Tip: The gems in the small tubes in the centre of the
 // map can be gotten by simply rolling outside the tubes.
 // Rep. by Phil
 //--- OBJECT WRITE BEGIN ---
@@ -8,7 +8,7 @@ new SimGroup(MissionGroup) {
          name = "Marble Agility Course";
          desc = "Can you take it all in stride?";
          level = "28";
-         startHelpText = "Jump for the diamonds!";
+         startHelpText = "Jump for the gems!";
          artist = "Technostick";
          type = "Intermediate";
          music = "Astrolabe.ogg";

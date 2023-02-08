@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          type = "Advanced";
          level = "5";
          music = "Seaside Revisited.ogg";
-         startHelpText = "Find the diamonds without putting in any flags!";
+         startHelpText = "Find the gems without putting in any flags!";
          time = "30000";
          goldTime = "20000";
          UltimateTime = "12000";

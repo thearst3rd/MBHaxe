@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          startHelpText = "Don\'t forget your towel!";
          type = "intermediate";
          artist = "Ian";
-         desc = "Use your marble skills to find all the diamonds!";
+         desc = "Use your marble skills to find all the gems!";
          name = "Gym";
          music = "Pianoforte.ogg";
          goldTime = "150000";

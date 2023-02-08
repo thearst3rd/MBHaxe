@@ -1,4 +1,4 @@
-// UT Tip: You sure you need the first Gravity Defier?
+// UT Tip: You sure you need the first Gravity Modifier?
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          goldTime = "45000";
          music = "Endurance.ogg";
          UltimateTime = "32500";
-         desc = "Zoom through this fun, gravity defier-packed course!";
+         desc = "Zoom through this fun, gravity modifier-packed course!";
          name = "Beach Party";
          level = "16";
          artist = "Pablo Vasquez";
@@ -113,7 +113,7 @@ new SimGroup(MissionGroup) {
       scale = "5 1 5";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Go slowly over the crest of the hill and grab the Gravity Defier on the other side.";
+         text = "Go slowly over the crest of the hill and grab the Gravity Modifier on the other side.";
    };
    new Trigger(oob1) {
       position = "43.4426 6.5843 451.418";

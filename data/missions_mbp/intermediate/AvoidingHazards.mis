@@ -1,4 +1,4 @@
-// UT Tip: Use the cyclone to cross the gap!
+// UT Tip: Use the tornado to cross the gap!
 // Rep. by Pablo
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {

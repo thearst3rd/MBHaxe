@@ -8,7 +8,7 @@ new SimGroup(MissionGroup) {
          artist = "Matan";
          name = "Platform Race 2";
          startHelpText = "Do you feel the pressure?";
-         desc = "Get the diamond at each stop in 10 seconds or the platform shall leave you behind!";
+         desc = "Get the gem at each stop in 10 seconds or the platform shall leave you behind!";
          type = "Advanced";
          music = "Endurance.ogg";
          level = "21";

@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          music = "Endurance.ogg";
          goldTime = "5500";
          desc = "You\'ll feel very dizzy indeed at the end of this.";
-         startHelpText = "Use the Speed Booster if you want to bump your head even harder!";
+         startHelpText = "Use the Super Speed if you want to bump your head even harder!";
          UltimateTime = "3800";
          level = "11";
          type = "beginner";

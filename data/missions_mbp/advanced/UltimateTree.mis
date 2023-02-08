@@ -5,7 +5,7 @@ new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          name = "Ultimate Tree";
-         desc = "Explore this beautiful tree and collect the diamonds on the branches. ";
+         desc = "Explore this beautiful tree and collect the gems on the branches. ";
          type = "Advanced";
          level = "28";
          music = "Seaside Revisited.ogg";

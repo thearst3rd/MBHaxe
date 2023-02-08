@@ -1,10 +1,10 @@
-// UT Tip: Go right first, then head towards the Jump Boost.
+// UT Tip: Go right first, then head towards the Super Jump.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
          name = "Medieval Maze";
-         desc = "Go through the castle\'s maze to find the diamonds!";
+         desc = "Go through the castle\'s maze to find the gems!";
          artist = "Lonestar";
          music = "Seaside Revisited.ogg";
          level = "4";

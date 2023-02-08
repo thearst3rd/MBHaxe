@@ -1,4 +1,4 @@
-// UT Tip: Find a route to skip parts of the level fast. Use the helicopter more than once if needed.
+// UT Tip: Find a route to skip parts of the level fast. Use the gyrocopter more than once if needed.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 

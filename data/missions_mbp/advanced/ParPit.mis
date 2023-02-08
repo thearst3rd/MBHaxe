@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          name = "Par Pit";
          artist = "Ian";
          startHelpText = "Be hasty!";
-         desc = "Get all the diamonds before time runs out!";
+         desc = "Get all the gems before time runs out!";
          type = "advanced";
          music = "Astrolabe.ogg";
          level = "20";

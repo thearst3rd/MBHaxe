@@ -1,4 +1,4 @@
-// UT Tip: Ever hit a nuke with a helicopter? Try it, you get tons of height.
+// UT Tip: Ever hit a nuke with a gyrocopter? Try it, you get tons of height.
 // Rep. by Phil
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          name = "Thief";
          artist = "Andrew";
          startHelpText = "Beware; there are traps and obstacles galore in this castle!";
-         desc = "Invade the castle and steal all the diamonds within before time runs out!";
+         desc = "Invade the castle and steal all the gems within before time runs out!";
          type = "Advanced";
          level = "32";
          music = "Seaside Revisited.ogg";
@@ -542,7 +542,7 @@ new SimGroup(MissionGroup) {
       scale = "2 2 2";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Hint: Jump + Jump Boost in order to pass this challenge!";
+         text = "Hint: Jump + Super Jump in order to pass this challenge!";
    };
    new Trigger(tip) {
       position = "2 69.5 16.85";
@@ -550,7 +550,7 @@ new SimGroup(MissionGroup) {
       scale = "2 2 2";
       dataBlock = "HelpTrigger";
       polyhedron = "0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 -1.0000000 0.0000000 0.0000000 0.0000000 1.0000000";
-         text = "Hint: The slope in front of the diamond can be used with the Helicopter in order to gain the necessary height.";
+         text = "Hint: The slope in front of the gem can be used with the Gyrocopter in order to gain the necessary height.";
    };
    new StaticShape() {
       position = "-6.14222 56.4985 29.9629";

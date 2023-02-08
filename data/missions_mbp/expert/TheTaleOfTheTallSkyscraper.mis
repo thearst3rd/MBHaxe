@@ -1933,7 +1933,7 @@ new SimGroup(MissionGroup) {
          scale = "1 1 1";
          dataBlock = "HelpTrigger";
          polyhedron = "-2.5000000 2.3750000 -0.2500000 5.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.5000000 0.0000000 -4.7500000 0.0000000";
-            text = "You may have to use the Jump Boost soon, depending on how fast you will be.";
+            text = "You may have to use the Super Jump soon, depending on how fast you will be.";
       };
       new Trigger(MustChange) {
          position = "3 11 111.25";
@@ -3016,7 +3016,7 @@ new SimGroup(MissionGroup) {
          scale = "1 1 1";
          dataBlock = "HelpTrigger";
          polyhedron = "1.2500000 -1.5000000 -1.2500000 0.0000000 3.0000000 0.0000000 -2.5000000 0.0000000 0.0000000 0.0000000 0.0000000 2.5000000";
-            text = "Use that Speed Booster up the slope!";
+            text = "Use that Super Speed up the slope!";
       };
       new Trigger(MustChange) {
          position = "-27.25 20.75 195.75";
@@ -3032,7 +3032,7 @@ new SimGroup(MissionGroup) {
          scale = "1 1 1";
          dataBlock = "HelpTrigger";
          polyhedron = "2.0000000 -2.0000000 0.2500000 -4.0000000 0.0000000 0.0000000 0.0000000 4.0000000 0.0000000 0.0000000 0.0000000 -0.5000000";
-            text = "Grab the Jump Boost, and do a U-Turn!";
+            text = "Grab the Super Jump, and do a U-Turn!";
       };
       new PathedInterior(MustChange) {
          position = "0 0 0";

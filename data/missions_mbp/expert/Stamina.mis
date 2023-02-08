@@ -1,4 +1,4 @@
-// UT Tip: Did you find the hidden helicopter?
+// UT Tip: Did you find the hidden gyrocopter?
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 

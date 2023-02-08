@@ -1,5 +1,5 @@
 // UT Tip: Instead of slowing down after the first wall hit, you can just hit the wall normally instead of jumping.
-// This will get you to the first diamond much faster.
+// This will get you to the first gem much faster.
 // Rep. by Matan
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {

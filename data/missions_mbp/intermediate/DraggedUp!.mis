@@ -1,4 +1,4 @@
-// UT Tip: I like to use the last Speed Booster from the very top, but that's just because it's fun.
+// UT Tip: I like to use the last Super Speed from the very top, but that's just because it's fun.
 // Rep. by Pablo
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          name = "Dragged Up!";
          artist = "Matan";
          startHelpText = "Climb to the top using rugs and carpets!";
-         desc = "Use the Speed Boosters to help you get up to the end!";
+         desc = "Use the Super Speeds to help you get up to the end!";
          type = "intermediate";
          music = "Pianoforte.ogg";
          level = "30";

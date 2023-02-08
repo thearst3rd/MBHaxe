@@ -7,7 +7,7 @@ new SimGroup(MissionGroup) {
          name = "Battlecube Revisited";
          level = "35";
          music = "Pianoforte.ogg";
-         startHelpText = "Six faces to find the diamonds on!";
+         startHelpText = "Six faces to find the gems on!";
          artist = "Matan";
          type = "intermediate";
          time = "165000";

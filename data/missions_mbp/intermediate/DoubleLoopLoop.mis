@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          name = "Double LoopLoop";
          type = "intermediate";
          music = "Seaside Revisited.ogg";
-         desc = "Roll around the inside of the rings to collect the diamonds.";
+         desc = "Roll around the inside of the rings to collect the gems.";
          goldTime = "40000";
          UltimateTime = "27500";
    };

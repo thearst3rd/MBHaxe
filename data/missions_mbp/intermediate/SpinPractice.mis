@@ -5,7 +5,7 @@ new SimGroup(MissionGroup) {
    new ScriptObject(MissionInfo) {
          artist = "Phil";
          name = "Spin Practice";
-         desc = "Control your spin so you can collect the diamonds ahead!";
+         desc = "Control your spin so you can collect the gems ahead!";
          level = "19";
          type = "Intermediate";
          music = "Endurance.ogg";

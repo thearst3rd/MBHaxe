@@ -1,11 +1,11 @@
-// UT Tip: Amazingly there is a shortcut, just find a method to save that Jump Boost.
+// UT Tip: Amazingly there is a shortcut, just find a method to save that Super Jump.
 //--- OBJECT WRITE BEGIN ---
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         startHelpText = "Collect the diamonds, but don\'t rush!";
+         startHelpText = "Collect the gems, but don\'t rush!";
          name = "Frictional Ascent";
-         desc = "Ascend to the top while traversing the hazardous friction and collecting the diamonds, but don\'t rush!";
+         desc = "Ascend to the top while traversing the hazardous friction and collecting the gems, but don\'t rush!";
          artist = "Perishingflames";
          level = "23";
          music = "Rising Temper.ogg";

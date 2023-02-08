@@ -1,5 +1,5 @@
-// UT Tip: You can hit with the helicopter and slant and then hit the next diamond
-// and the ring instead of going normally. Then, grab all the diamonds on the last part
+// UT Tip: You can hit with the gyrocopter and slant and then hit the next gem
+// and the ring instead of going normally. Then, grab all the gems on the last part
 // and bounce twice to the finish!
 // Rep. by Phil
 //--- OBJECT WRITE BEGIN ---
@@ -9,7 +9,7 @@ new SimGroup(MissionGroup) {
          name = "Ring Stunts";
          artist = "Andrew";
          startHelpText = "Be sure you have the right speed and height before going through the rings!";
-         desc = "Jump or fly through the rings to get the diamonds.";
+         desc = "Jump or fly through the rings to get the gems.";
          type = "Advanced";
          music = "Rising Temper.ogg";
          level = "19";
