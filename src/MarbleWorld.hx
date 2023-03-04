@@ -1067,7 +1067,9 @@ class MarbleWorld extends Scheduler {
 
 		if (this.outOfBounds
 			&& this.finishTime == null
-			&& (Key.isDown(Settings.controlsSettings.powerup) || Gamepad.isDown(Settings.gamepadSettings.powerup))
+			&& (Key.isDown(Settings.controlsSettings.powerup)
+			|| Gamepad.isDown(Settings.gamepadSettings.powerup)
+			|| MarbleGame.instance.touchInput.powerupButton.pressed)
 			&& !this.isWatching) {
 			this.restart();
 			return;
